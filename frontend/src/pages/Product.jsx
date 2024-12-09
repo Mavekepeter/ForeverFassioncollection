@@ -83,12 +83,12 @@ const Product = () => {
       {/* -------------description & Review section-------------- */}
       <div className='mt-20'>
         <div className='flex '>
-          <b className='border px-5 py-3 text-sm'>Description</b>
-          <p className='border px-5 py-3 text-sm'>Review (122)</p>
+          <b className='border px-5 py-3 text-sm  hover:bg-primary hover:text-white transition-all duration-300 text-gray-600 cursor-pointer'>Description</b>
+          <p className='border px-5 py-3 text-sm  hover:bg-primary hover:text-white transition-all duration-300 text-gray-600 cursor-pointer'>Review (122)</p>
         </div>
         <div className='flex flex-col gap-4 border px-6 text-sm text-gray-500'>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus modi repellat repellendus aut nesciunt quas quos, odio, libero aliquam beatae reiciendis labore.Accusamus modi repellat repellendus aut nesciunt quas quos, odio, libero aliquam beatae reiciendis labore.</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, veritatis. Cum similique consequatur harum voluptate necessitatibus modi ullam voluptatem consequuntur. Exercitationem perferendis perspiciatis nemo accusamus et assumenda, repudiandae autem fugit!</p>
+          <p>Don’t miss out on our biggest sale at Forever Fashion Collection! Shop our top-selling styles at unbeatable prices—timeless designs, premium quality, and exceptional value. Stock up on your favorites before they're gone!</p>
+          <p>Our top-rated products are now on sale, featuring iconic styles at incredible discounts. Upgrade your wardrobe with high-quality pieces at prices you’ll love—shop now before they sell out! Shop premium styles at discounted prices and elevate your look without breaking the bank.</p>
         </div>
       </div>
       {/* --------------Display related prodcts--------- */}

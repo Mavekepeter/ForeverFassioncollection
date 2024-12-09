@@ -15,8 +15,7 @@ const BestSeller = () => {
         <div className='text-center text-3xl py-8'>
            <Title text1={'BEST'} text2={'SELLERS'}/>
            <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-500 '>
-           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit temporibus voluptatem id 
-           consequuntur placeat doloremdebitis ipsam, aut consequuntur eveniet laboriosam repellat ducimus!
+           Explore the newest trends with Forever Fashion Collection. Our latest arrivals feature fresh designs, bold styles, and timeless classics, all crafted with premium quality. Elevate your wardrobe with the season’s must-haves!
            </p>
 
         </div>
